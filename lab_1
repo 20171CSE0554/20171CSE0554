@@ -1,0 +1,52 @@
+<html dir="ltr">
+    <head>
+
+	<title>This is document title</title>
+
+    </head>
+    <body bgcolor="cream">
+
+	<center><h1>This is heading</h1></center>
+	<hr />
+	<p><b><u>Document content goes here...</u></b><br><i><strike> (Oh my ghosh)<sup>Laallala</sup></strike></i><br /></p>	
+	<p>Type your content here...<sub>Ooohhh</sub></p>
+	<br />
+	<p><tt>Your content gets displayed here</tt></p>	
+<hr />
+<pre>
+ function text{
+ int n;
+ }
+	</pre>
+
+<hr />
+<p align="left">This goes to left!!</p><br />
+<p align="center">This goes to center!!</p><br />
+<p align="right">This goes to right!!</p>
+<hr />
+
+<p valign="top">This goes to top!!</p><br />
+<p valign="middle">This goes to middle!!</p><br />
+<p valign="bottom">This goes to bottom!!</p>
+
+<hr />
+<h3 title="Hello HTML!">Example of Heading</h3>
+<p>Document 1<br> (Oh my ghosh)<br /></p>	
+<p>Type your content here...</p>
+<hr />	
+
+<h5>You are here!!</h5>
+<h5><big>In the Lab!##></big></h5>
+
+<hr />
+<h5>You are here!!</h5>
+<h5><small>In the Lab!##></small></h5>
+<hr />
+<h5>You are here!!</h5>
+<h5><del>In the Lab!##></del></h5>
+<hr />
+<h5>You are here!!</h5>
+<h5><ins>In the Lab!##></ins></h5>
+
+     </body>
+<html>		
