@@ -1,0 +1,79 @@
+<html>
+	<head>
+		<title>Lab_2</title>
+	</head>
+	<body>
+		<div id="MENU" align="middle">
+			<a href="file:///home/exam1/Desktop/IT%20Lab(sem%206)/lab_1">HOME</a>|
+			<a href="/about/contact_us.htm">CONTACT</a>|
+			<a href="/about/index.htm">ABOUT</a>
+		</div>
+<hr />
+
+<p><q>Heyy How are you</q></p>
+<p><strong>Im in lab</strong></p>
+<p><em>Im studying Engineering</em></p>
+<p><mark>We are in same class</mark></p>
+<p><bdo	dir="rtl">The Rough</bdo></p>
+
+<hr />
+
+<ul type="square">
+<li>Coffee</li>
+<li>Tea</li>
+<li>Sugar</li>
+</ul>
+
+<hr />
+
+<ol type="i">
+<li>Coffee</li>
+<li>Tea</li>
+<li>Sugar</li>
+</ol>
+
+<hr />
+
+<ol>
+	<li>Fruits</li>
+	<ul>
+		<li>Apple</li>
+		<li>Bananas</li>
+	</ul>
+			<ol type="i">
+				<li>Red</li>
+				<li>Green</li>
+			</ol>
+</ol>
+<ol start="2">
+<li>Vegetables</li>
+		<ol type ="I">
+			<li>Tomato</li>
+			<li>Carrot</li>
+		</ol>
+</ol>
+
+<hr />
+
+<h3>Significance:</h3>
+<dl>
+<dt>Saffron</dt>
+<dd>Courage and Sacrifice</dd>
+<dt>White</dt>
+<dd>Peace</dd>
+<dt>Green</dt>
+<dd>Culture</dd>
+</dl>
+
+<hr />
+
+<h1 align="center">The Heading</h1>
+<hr />
+<p>The heading denotes the main idea behind the concept</p>
+
+
+	</body>
+
+
+
+
