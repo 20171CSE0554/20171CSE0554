@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body bgcolor="black">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+	<table align="center" width="100%" border="1" cellpadding="10" bordercolor="yellow"  bgcolor="#adad85">
+
+		<tr>
+			<th colspan="9">Time-Table</th>
+			
+		</tr>
+		
+		<tr>
+			<th bgcolor="yellow">Days</th>
+			<th bgcolor="yellow">Period 1</th>
+			<th bgcolor="yellow">Period 2</th>
+			<th rowspan="6" bgcolor="yellow">S<br>H<br>O<br>R<br>T<br><br>B<br>R<br>E<br>A<br>K<br></th>
+			<th  bgcolor="yellow">Period 3</th>
+			<th bgcolor="yellow">Period 4</th>
+			<th rowspan="6"  bgcolor="yellow">L<br>U<br>N<br>C<br>H<br></th>
+			<th  bgcolor="yellow">Period 5</th>
+			<th bgcolor="yellow">Period 6</th>		
+		</tr>
+
+		<tr align="center">
+			<td bgcolor="yellow">Monday</td>
+			<td>CS1</td>
+			<td>CS2</td>
+			
+			<td>CS3</td>
+			<td>CS4</td>
+			<td>CS5</td>
+			<td>CS6</td>
+		</tr>
+
+		<tr align="center">
+			<td bgcolor="yellow">Tuesday</td>
+			<td>CS1</td>
+			<td>CS2</td>
+			
+			<td>CS3</td>
+			<td>CS4</td>
+			<td>CS5</td>
+			<td>CS6</td>
+		</tr>
+
+		<tr align="center">
+			<td bgcolor="yellow">Wednesday</td>
+			<td>CS1</td>
+			<td>CS2</td>
+			
+			<td>CS3</td>
+			<td>CS4</td>
+			<td>CS5</td>
+			<td>CS6</td>
+		</tr>
+
+		<tr align="center">
+			<td bgcolor="yellow">Thursday</td>
+			<td>CS1</td>
+			<td>CS2</td>
+			
+			<td>CS3</td>
+			<td>CS4</td>
+			<td>CS5</td>
+			<td>CS6</td>
+		</tr>
+
+		<tr align="center">
+			<td bgcolor="yellow">Friday</td>
+			<td>CS1</td>
+			<td>CS2</td>
+			
+			<td>CS3</td>
+			<td>CS4</td>
+			<td>CS5</td>
+			<td>CS6</td>
+		</tr>
+
+	</table>
+</body>
+</html>
+
+		

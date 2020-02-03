@@ -1,0 +1,47 @@
+<html>
+<head>
+	<title>lab_3</title>
+</head>
+
+<body>
+<div style="background-image:url('/home/student/Downloads/index.jpeg');" height="100%">
+	<table border="3" cellpadding="1" bgcolor="Gainsboro" >
+	
+	<caption>Trial</caption>
+	
+	<tr>
+		<th>Column 1 Header</th>
+		<th>Column 2 Header</th>
+		
+	</tr>
+	<tr>
+		<td><input type="text" name="fname" size="10%"></td>
+		<td>Row1,Col2</td>
+		
+	</tr>
+	<tr>
+		<td height="100" valign="top">Row2,Col1</td>
+		<td>Row2,Col2</td>
+	</tr>
+
+</table>
+<br>
+<hr>
+<br>
+
+<table border="1" bgcolor="Gainsboro" cellpadding="5" cellspacing="5">
+<tr>
+	<th>Name</th>
+	<th>Salary</th>
+</tr>
+<tr>
+	<td>Ramesh Raman</td>
+	<td>75000</td>
+</tr>
+</table>
+</div>
+</body>
+
+
+
+
