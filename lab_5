@@ -1,0 +1,44 @@
+<html>
+
+<head><title>Lab_5</title></head>
+
+<body>
+	<marquee direction="up">Move UP</marquee>
+<hr />
+
+<a href="/home/student/IT LAB/index.jpeg">
+<img src="index.jpeg" alt=Image as link" style="width:42px;height:42px;border:0;">
+</a>
+<br>
+<br>
+<hr />
+
+<a href="https://www.fcbarcelona.com/en">
+<img src="smiley.gif" alt=Image as link" style="float:right; width:42px;height:42px;">
+</a>
+<br>
+<br>
+<hr />
+
+<a href="https://www.fcbarcelona.com/en">
+<img src="index.jpeg" alt=Image as link" style="float:left; width:42px;height:42px;">
+</a >
+<hr />
+<br>
+<br>
+
+<img src="workmap.jpeg" alt="Workplace" usemap="#workmap">
+<map name="workmap">
+<area shape="poly" coords="155,0,252,27,217,110,147,157,48,100,118,67" alt="Phone" href="https://www.udemy.com">
+<area shape="poly" coords="190,126,215,127,226,144,231,157,231,164,171,165,166,154,186,138" alt="Phone" href="https://www.cafecoffeeday.com">
+<area shape="poly" coords="231,108,251,117,229,142,212,122" alt="Phone" href="https://www.apple.com">
+</map>
+<br>
+<hr>
+
+<p>I&apos;m Don</p>
+
+<hr>
+
+
+

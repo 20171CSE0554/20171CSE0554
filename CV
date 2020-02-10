@@ -1,0 +1,85 @@
+<html>
+
+<head>
+	<title>CV</title>
+</head>
+
+<body>
+<img src="/home/student/Downloads/index.jpeg"  align="right" width="15%" border="1" />
+	<br>
+	<h4 margin-bottom="-6"><a id="bookmark">Raghavendra G P</a></h4>
+	<font size="4"><pre><b>E-mail:</b>cse@gmail.com</pre></font>
+	                              
+	<hr>
+	<hr>
+
+	<h4><u>Career Objective</u></h4>
+	<p>&emsp;To be a good coder.</p>
+	<hr>
+	<hr>
+
+	<h4><u>Education</u></h4>
+	<ul>
+	<li><p>2017-2021 &emsp;&emsp;Btech(Computer Science)&emsp;&emsp;Pesidency University</p></li>
+	<li><p>2014-2017 &emsp;&emsp;Pre-University&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;KLE PU college</p></li>
+	<li><p>2009-2014 &emsp;&emsp;High School&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Cambridge High School</p></li>
+	</ul>
+	<hr>
+	<hr>
+
+	<h4><u>Technical Skill</u></h4>
+	<table border="1" cellpadding="6">
+		<tr>
+			<th>Language</th>
+			<th>Beginner</th>
+			<th>Intermediate</th>
+			<th>Legend</th>
+		</tr>	
+		<tr>
+			<td align="center">C</td>
+			<td></td>
+			<td align="center"><input type="checkbox"></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td align="center">Java</td>
+			<td align="center"><input type="checkbox"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td align="center">Python</td>
+			<td></td>
+			<td></td>
+			<td align="center"><input type="checkbox"></td>
+		</tr>
+		<tr>
+			<td align="center">HTML</td>
+			<td></td>
+			<td align="center"><input type="checkbox"></td>
+			<td></td>
+		</tr></table>
+		<hr>
+		<hr>
+
+	<h4><u>Achievements</u></h4>
+	<ul>
+		<li><p>Participated in IIT-Bombay Techfest 2020</p></li>
+		<li><p>Taluk level Kabaddi player.</p></li>
+		
+	</ul>
+	<hr>
+	<hr>
+	
+	<h4><u>Personal Details</u></h4>
+	<p><b>Name :</b>&emsp;&emsp;&emsp;&emsp;&emsp;Raghavendra G P<p>
+	<p><b>Father Name :</b>&emsp;G C Prakash<p>
+	<p><b>Contact No. :</b>&emsp;&nbsp;&nbsp;8888888888<p>
+	<p><b>Address :</b>&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Chitradurga<p>
+		<a href="#bookmark">Top</a>
+
+
+</body>
+
+</html>
+
