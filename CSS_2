@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>CSS_2</title>
+</head>
+
+<body>
+<div style= "font-size: 16pt; line-height: 125%;"><p>A is a self-contained unit of a discourse in writing with a particular point or idea.</p></div>
+
+<hr>
+
+<div style= "margin-bottom: 2cm"><p>This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.</p></div>
+
+<hr>
+
+<div style= "word-spacing: 15mm;"><p> In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.</p></div>
+
+<hr>
+
+<div style= "font-size: 7pc;"><p>A is a self-contained unit of a discourse in writing with a particular point or idea.</p></div>
+
+<hr>
+
+<div style= "font-size: 18pt"><p>This handout will help you understand how paragraphs are formed, how to develop stronger paragraphs, and how to completely and clearly express your ideas.</p></div>
+
+<hr>
+
+<div style= "padding: 25px;"><p> In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.</p></div>
+
+<hr>
+
+<div style= ""><p> In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.</p></div>

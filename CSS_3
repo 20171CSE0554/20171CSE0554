@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>CSS_3</title>
+<style>
+body{
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+}
+
+div.stretch{
+	font-stretch: ultra-expanded;
+	}
+
+</style>
+
+
+
+
+</head>
+<body style="background-image: url('lalala.jpg'); ">
+<p style="font-family:arial,georgia,serif;">In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In thse it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it contwe will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as thit controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” .</p>
+
+<hr>
+
+<p style="font-size:20px;">This is the sample paragraph</p>
+<p style="font-size:small;">This is the sample paragraph</p>
+<p style="font-size:large;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="font-weight:bold;">This is the sample paragraph</p>
+<p style="font-weight:bolder;">This is the sample paragraph</p>
+<p style="font-weight:500%;">This is the sample paragraph</p>
+
+<hr>
+<div class="stretch";><p>This is the sample paragraph</p></div>
+
+<hr>
+
+<p style="color: red;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="direction: rtl">This is the sample paragraph</p>
+
+<hr>
+
+<p style="letter-spacing: 10px;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="word-spacing: 10px;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-indent: 2cm;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-align: right;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-align: center;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-align: left;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-decoration: underline;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-decoration: line-through;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-decoration: overline;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-decoration: underline overline;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-transform: capitalize;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-transform: lowercase;">This is the sample paragraph</p>
+
+<hr>
+
+<p style="text-transform: uppercase;">This is the sample paragraph</p>
+
+<hr>
+
+<p>This is the sample paragraph blu<span style="color:red;font-weight:bold">e</span></p>
+
+<hr>
+
+<p style="text-shadow: 300px 0px 5px;">This is the sample paragraph</p>
+
+<hr>
+
+<img style="border: 5px dashed yellow;" src="workmap.jpeg">
+
+
+</body>
+</html>
