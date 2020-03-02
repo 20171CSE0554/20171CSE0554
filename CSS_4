@@ -1,0 +1,107 @@
+<html>
+<head>
+<title>CSS_4</title>
+<style>
+#id1{
+	text-transform: uppercase;
+    }
+.mycolor{
+	background: red;}
+
+.p{
+	border-style:dotted;
+	border-width: 5px;}
+
+
+.p1{
+	border-style:dashed;
+	border-width: 5px;}
+
+.p2{
+	border-style:solid;
+	border-color: blue;}
+
+.p3{
+	border-style:double;
+	border-color: red;}
+
+.p4{
+	border-style:groove;
+	border-color: purple;}
+
+.p5{
+	border-style:ridge;
+	border-width:10px;}
+
+.p6{
+	border-style:inset;}
+
+.p7{
+	border-style:outset;}
+
+.p8{
+	border-style: none;}
+
+.p9{
+	border-style: hidden;}
+
+.p10{
+	border-style: dotted dashed solid double;
+	border-width: 5px 8px 10px 2px;
+	border-color: blue green red yellow;}
+
+.p11{
+	margin:25px 50px 75px 100px;
+	border:1px solid;
+	padding: 10px 100px 200px; }
+
+</style>
+</head>
+<body>
+	<p id="id1">Tour Data</p>
+	<h1 id="id1">Your Data</h1>
+
+<p class="mycolor">your data</p>
+
+<hr>
+
+<p class="p">Oh My God</p>
+
+
+<p class="p1">Oh My God</p>
+
+
+<p class="p2">Oh My God</p>
+
+
+<p class="p3">Oh My God</p>
+
+
+<p class="p4">Oh My God</p>
+
+
+<p class="p5">Oh My God</p>
+
+
+<p class="p6">Oh My God</p>
+
+
+<p class="p7">Oh My God</p>
+
+
+<p class="p8">Oh My God</p>
+
+
+<p class="p9">Oh My God</p>
+
+
+<p class="p10">Oh My God</p>
+
+
+<hr/>
+
+<p class="p11">In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In thse it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what happens in the rest of the paragraph.In this handout, we will refer to this as the “controlling idea,” because it controls what</p>
+
+<hr/>
+</body>
+</html>
