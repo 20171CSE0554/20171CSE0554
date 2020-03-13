@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>CSS_5</title>
+
+<style>
+#we{	
+	
+	width: 800px;
+	border: 25px solid blue;
+	padding: 25px;
+	
+	}
+
+li{
+display:inline;
+}
+
+a:link, a:visited {
+  background-color: black;
+  color: red;
+  border: groove;
+  border-color: purple;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:hover, a:active {
+  background-color: cyan;
+}
+
+</style>
+</head>
+<body>
+
+<div id="we">This is the paragrapgh for box modelling.</div>
+
+<hr>
+
+<ul>
+	<li>Oh</li>
+	<li>My</li>
+	<li>god</li>
+</ul>
+
+<hr>
+
+<a href="https://www.cafecoffeeday.com
+" target="_blank"><u>Click Me!</u></a>
+
+<hr>
+
+
+
+</body>
+</html>

@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>CSS_6</title>
+
+<style>
+	
+div.bg{	
+	background-image: url("hmm.jpg");
+	height:680px;
+	background-size: cover;
+	background-repeat: none;
+        opacity:0.5;
+	}
+	
+p.test:first-line{
+	opacity: 0.9;
+	color: cyan;
+	font-size: 25px;
+}
+
+a.highlight:hover{
+	opacity: 0.9;
+	color: maroon;
+	font-style: italic;
+	font-size: 20px;
+}
+
+.para{
+	opacity: 0.9;
+	display: none;
+	background-color: yellow;
+	padding: 15px;
+	
+}
+
+div.me:hover .para{
+	opacity: 0.9;
+	display:block;
+	color: red;
+	
+}	
+	
+
+</style>
+</head>
+<body>
+<div class="bg">
+
+<h1>NKDEFUIB</h1>
+<p class="test" >This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.This is the paragraph.Make it fun.</p>
+
+<hr>
+
+<a href="https://www.cafecoffeeday.com/" target="blank" class="highlight">Surprise!!!</a>
+
+<hr>
+
+
+
+<div class="me">Really!!
+  <p class="para" >Ohh!</p>
+</div>
+
+<hr>
+
+
+<img src="workmap.jpeg" alt="worksoft" opacity="0.9">
+
+</div>
+</body>
+</html>
+
+
